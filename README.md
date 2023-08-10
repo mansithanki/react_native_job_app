@@ -15,7 +15,7 @@ This repository contains a practical example of a React Native project - Jobble 
 ## Screenshots:
 
 ### Popular and Nearby Jobs:
-<img src="https://github.com/mansithanki/react_native_job_app/assets/44176224/39658244-3cfe-4560-b21e-18a1eead57d1" alt="IMG_1278" width="600" height="800"/>
+<img src="https://github.com/mansithanki/react_native_job_app/assets/44176224/39658244-3cfe-4560-b21e-18a1eead57d1" alt="IMG_1278" width="300" height="800"/>
 
 
 ![IMG_1278](https://github.com/mansithanki/react_native_job_app/assets/44176224/39658244-3cfe-4560-b21e-18a1eead57d1)
