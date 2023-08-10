@@ -29,7 +29,8 @@ This repository contains a practical example of a React Native project - Jobble 
 
 
 ### Search Functionality:
-<img src="https://github.com/mansithanki/react_native_job_app/raw/main/assets/44176224/3896b558-1d00-4b13-bbe6-83d46f0554d4" alt="IMG_1279" width="500" height="1000" />
+<img src="https://github.com/mansithanki/react_native_job_app/raw/main/assets/44176224/3896b558-1d00-4b13-bbe6-83d46f0554d4.png" alt="IMG_1279" width="500" height="1000" />
+
 
 
 ### Link to Expo:
