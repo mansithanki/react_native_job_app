@@ -20,14 +20,17 @@ This repository contains a practical example of a React Native project - Jobble 
 ### Jobs About, Qualifications, and Responsibilities:
 <img src="https://github.com/mansithanki/react_native_job_app/assets/44176224/9228ce83-e813-4c58-ae02-3508edb1dd80" alt="IMG_1274" width="500" height="900"  />
 
+
 <img src="https://github.com/mansithanki/react_native_job_app/assets/44176224/d9105e0a-0e75-4649-b1f4-49907af7687d" alt="IMG_1275" width="500" height="900" />
+
 
 <img src="https://github.com/mansithanki/react_native_job_app/assets/44176224/0deef39d-d4ab-40c1-a0f4-6e705fb745ba" alt="IMG_1276" width="500" height="900" />
 
 
 
 ### Search Functionality:
-![IMG_1279](https://github.com/mansithanki/react_native_job_app/assets/44176224/3896b558-1d00-4b13-bbe6-83d46f0554d4)
+<img src="https://github.com/mansithanki/react_native_job_app/raw/main/assets/44176224/3896b558-1d00-4b13-bbe6-83d46f0554d4.png" alt="IMG_1279" width="500" height="900" />
+
 
 ### Link to Expo:
 https://expo.dev/@thankimansi/react_native_job_app?serviceType=classic&distribution=expo-g
